@@ -7,4 +7,15 @@ class App < Sinatra::Base
       #
   end
 
+  get'/square/:number' do
+      #
+  end
+
+  get'/reversename/:name' do
+      #
+  end
+
+  get'/reversename/:name' do
+      #
+  end
 end
